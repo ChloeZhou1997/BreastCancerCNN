@@ -21,6 +21,10 @@ This study is a clear implication that the aim and goal of our project are feasi
 Using helper function provided from Duke University for preprocessing, details can be obtained from [here](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Preprocessing.ipynb).
 
 # Model training and evaluation
+
+The data is collected from Data Imaging Archives. The archive is accumulated from 5,610 studies for 5,060 participants for a total of 22,302 images. These are breast tomosynthesis images that include normal, actionable, biopsy-proven benign and biopsy-proven cancer cases; and there are a total of 2 classes: normal and all the abnormal cases combined. We used 3 different models for the classification: ResNet50, VGG and Inception. Since there are only 900 cancer images, we duplicated the cancer cases to match the number of normal images in the whole dataset. 80% of the data is divided as a training set and 20% of the data is used as a test set.
+
+The training details and evaluation results can be obtained from:
 - [ResNet](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Detection_Project_ResNet.ipynb)
 - [Inception](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Classfication_inception.ipynb)
 - [VGG](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Classfication_VGG_v1.ipynb)
