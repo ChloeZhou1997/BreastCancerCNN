@@ -15,3 +15,7 @@ The analysis of tomosynthesis data is time-consuming and challenging and certain
 
 Buda et al., (2021) used the same data we have used to develop a baseline deep learning model for breast cancer detection and performed a deep learning algorithm based on DenseNet, and achieved 65% sensitivity on the test set.
 This study is a clear implication that the aim and goal of our project are feasible and doable.
+
+# Pre-processing
+
+Using helper function provided from Duke University for preprocessing, details can be obtained from [here](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Preprocessing.ipynb)
