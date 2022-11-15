@@ -18,4 +18,7 @@ This study is a clear implication that the aim and goal of our project are feasi
 
 # Pre-processing
 
-Using helper function provided from Duke University for preprocessing, details can be obtained from [here](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Preprocessing.ipynb)
+Using helper function provided from Duke University for preprocessing, details can be obtained from [here](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Preprocessing.ipynb).
+
+# Model training and evaluation
+- [ResNet](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Detection_Project_ResNet.ipynb)
