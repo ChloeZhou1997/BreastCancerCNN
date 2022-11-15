@@ -22,3 +22,5 @@ Using helper function provided from Duke University for preprocessing, details c
 
 # Model training and evaluation
 - [ResNet](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Detection_Project_ResNet.ipynb)
+- [Inception](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Classfication_inception.ipynb)
+- [VGG](https://github.com/ChloeZhou1997/BreastCancerCNN/blob/main/Breast_Cancer_Classfication_VGG_v1.ipynb)
